@@ -6,4 +6,4 @@ Hello
 
 <p>&nbsp;</p>
 Non centered, markdown image
-![KG Image]({{ site.baseurl }}/assets/images/KyrgyzstanTaldykPass.jpg)
+![KG Image]({{ site.baseurl }}/assets/images/Kyrgyzstan Taldyk Pass.jpg)
