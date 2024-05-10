@@ -26,7 +26,7 @@ plugins:
 author:
   name   : "Jane Stanford"
   avatar : "/assets/images/janestanford.jpg"
-  bio    : "I and Leland we build university systems for the ages"
+  bio    : "I and Leland we build university systems ... and now 2025"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
